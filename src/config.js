@@ -100,10 +100,7 @@ export default {
   // page6部分
   page6: {
     github: 'https://github.com/roudoukou',
-    bili: '',
     email: 'Mailto:1023876294@qq.com?Subject=邮箱标题&Body=邮箱内容！',
-    zhihu: '',
-    weixin: "<img style='width:120px' src='https://xiamu.icu/img/qrcode.png' alt='加载失败'>",
     qq: "<img style='width:120px' src='https://xiamu.icu/img/qqcode.png' alt='加载失败'>"
   }
 }
