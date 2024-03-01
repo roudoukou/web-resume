@@ -1,22 +1,22 @@
 export default {
   // page1部分
   page1: {
-    titleEn: 'Hello,I`m XiaLonggui', //英文标题
-    title: '一个追梦在前端路上的小白', //中文标题
+    titleEn: 'Hello,I`m Roudoukou', //英文标题
+    title: 'jvav程序员', //中文标题
   },
   // page2部分
   page2: {
     authorImg: 'page1.jpg', // 作者头像
     xinhui: '我叫夏珑桂，是一名在读的大四学生。', // 幸会
-    qiuzhi: '前端开发', // 求职意向
-    guanyuwo: '掌握了前端js、html、css、Nodejs、Vue全家桶、uniapp框架和React框架等等，希望可以和大家一起学习，共同进步！' // 关于我
+    qiuzhi: '后端开发', // 求职意向
+    guanyuwo: '掌握了SpringBoot Vue MySQL等等，希望可以和大家一起学习，共同进步！' // 关于我
   },
   // page3部分
   page3: [{
     icon: 'icon-tubiao-',
     title: '后端',
     msg: ['Spring后台开发']
-  },{
+  }, {
     icon: 'icon-diannao', // 图标
     title: '网页制作', // 标题
     msg: ['响应式页面', 'css、scss动画效果',] //介绍
@@ -24,10 +24,10 @@ export default {
     icon: 'icon-qianbi1',
     title: '前端功能',
     msg: ['JS完成常见的交互功能', '用AJAX读取后台数据且渲染']
-  },  {
+  }, {
     icon: 'icon-shouji',
     title: '框架',
-    msg: ['vue框架','React框架']
+    msg: ['vue框架', 'React框架']
   }],
   // page4部分
   page4: {
@@ -42,7 +42,7 @@ export default {
       date: '2020/9——2024/7',
       desc: {
         title: '吉首大学张家界学院',
-        list: ['真知实践社团', '蓝桥杯校赛一等奖', '蓝桥杯省赛三等奖','软件设计师','网页设计大赛校赛二等奖','中国大学生计算机设计大赛中南地区赛三等奖']
+        list: ['真知实践社团', '蓝桥杯校赛一等奖', '蓝桥杯省赛三等奖', '软件设计师', '网页设计大赛校赛二等奖', '中国大学生计算机设计大赛中南地区赛三等奖']
       }
     }],
     // 我的拓展技能掌握
@@ -64,7 +64,7 @@ export default {
       title: 'HTML、CSS、SCSS',
       value: '90%'
     }, {
-      title: 'JS、JQ',
+      title: 'SpringBoot',
       value: '90%'
     }, {
       title: 'Vue',
@@ -73,10 +73,10 @@ export default {
       title: 'React',
       value: '30%'
     }, {
-      title: 'NodeJs',
+      title: 'Java',
       value: '80%'
     }, {
-      title: 'mysql',
+      title: 'MySQL',
       value: '80%'
     }]
   },
